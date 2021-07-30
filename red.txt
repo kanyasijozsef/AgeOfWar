@@ -1,5 +1,7 @@
 1. git clone <repo>
 2. git status (fel van-e rakva a színpadra)
 3. git add . (mindent, ami eddig nem volt a színpadon, azt felrakja)
-4. git commit -m "üzenet"
-5. git 
+4. git commit -m "üzenet" (feltölti a lokális repoba és hozzáad egy üzenetet a feltöltéshez)
+5. git push (feltöltöd a központi repositoryba)
+6. git pull (letölti a projektet a központi repositoryból)
+
